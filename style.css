@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header table{
+    border-spacing: 10px;
+    width: 100%;
+    border: 1px solid #ddd;
+    padding: 10px;
+    padding-left: 20px;
+    background-color: lightblue;
+}
+
+.header table a{
+    text-decoration: none;
+}
+
+.body h2{
+    font-family: tahoma;
+    padding-left: 40px;
+}
+
+.body form{
+    padding-left: 40px;
+}
+
+.body table{
+    width: 100%;
+    border: 1px solid #ddd;
+}
+
+.body th{
+    text-align: center;
+    padding: 16px;
+}
+
+.body td{
+    padding: 16px;
+}
+
+.body tr:nth-child(even){
+    background-color: #f2f2f2;
+}
